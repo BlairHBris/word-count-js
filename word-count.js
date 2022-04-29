@@ -1,1 +1,3 @@
-export function count() {}
+export function count(string) {
+    
+}
